@@ -1,11 +1,7 @@
-# Welcome to [Slidev](https://github.com/slidevjs/slidev)!
+# GenAI-Powered Postsecondary Computer Science Education Tools: A Systematic Literature Review
 
-To start the slide show:
+Originally presented at Koli Calling '26, November 5, 2026
 
-- `npm install`
-- `npm run dev`
-- visit <http://localhosyt:3030>
+Slides: https://owensizemore.github.io/sizemorekoli26
 
-Edit the [slides.md](./slides.md) to see the changes.
-
-Learn more about Slidev at the [documentation](https://sli.dev/).
+Full paper: https://dl.acm.org/doi/full/10.1145/3856208.3856224
