@@ -2,4 +2,6 @@
 
 Originally presented at Koli Calling '26, November 5, 2026
 
+Slides: https://owensizemore.github.io/sizemorekoli26
+
 Full paper: https://dl.acm.org/doi/full/10.1145/3856208.3856224
